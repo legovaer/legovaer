@@ -1,13 +1,14 @@
 
 <div align="center">
-<br/>
-<br/>
+<br>
+<br>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/legovaer/legovaer/raw/main/img/legovaer-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/legovaer/legovaer/raw/main/img/legovaer-light.png">
-  <img alt="Shows Levi's username in ascii art" src="https://github.com/legovaer/legovaer/raw/main/img/legovaer-light.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legovaer/legovaer/main/img/legovaer-light.png">
+  <img alt="Shows Levi's username in ascii art" src="https://raw.githubusercontent.com/legovaer/legovaer/main/img/legovaer-dark.png">
 </picture>
-<br/>
+
+<br>
 <br/>
 
 [![StandWithUkraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/badges/StandWithUkraine.svg)](https://github.com/vshymanskyy/StandWithUkraine/blob/main/docs/README.md)
