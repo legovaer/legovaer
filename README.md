@@ -3,10 +3,8 @@
 <br>
 <br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/legovaer/legovaer/main/img/legovaer-light.png">
-  <img alt="Shows Levi's username in ascii art" src="https://raw.githubusercontent.com/legovaer/legovaer/main/img/legovaer-dark.png">
-</picture>
+![Legovaer](./img/legovaer-dark.png#gh-dark-mode-only)
+![Legovaer](./img/legovaer-light.png#gh-light-mode-only)
 
 <br>
 <br/>
