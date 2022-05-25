@@ -3,9 +3,9 @@
 <br/>
 <br/>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./img/legovaer-dark.png">
-  <source media="(prefers-color-scheme: light)" srcset="./img/legovaer-dark.png">
-  <img alt="Shows Levi's username in ascii art" src="./img/legovaer-dark.png">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/legovaer/legovaer/raw/main/img/legovaer-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/legovaer/legovaer/raw/main/img/legovaer-light.png">
+  <img alt="Shows Levi's username in ascii art" src="https://github.com/legovaer/legovaer/raw/main/img/legovaer-light.png">
 </picture>
 <br/>
 <br/>
